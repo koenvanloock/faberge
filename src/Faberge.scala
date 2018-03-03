@@ -32,8 +32,6 @@ object Faberge {
   }
 
   def main(args: Array[String]): Unit = {
-
-
     println(height(valueOf(4), valueOf(17)))
   }
 }

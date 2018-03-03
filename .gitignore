@@ -1,3 +1,5 @@
 out/
+target/
+project/
 .idea/**
 *.iml
